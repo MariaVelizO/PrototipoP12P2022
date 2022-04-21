@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1650576574 source:c:\users\maria\gitproyectos\prueba\parcial 2\prototipop2\main.cpp
-	<iostream>
-	<fstream>
-	<stdlib.h>
-	<cstdlib>
-	<conio.h>
-	<iomanip>
-
